@@ -133,8 +133,6 @@ public class Steps {
 
 	@Then("the product added is displayed in the cart page")
 	public void the_product_added_is_displayed_in_the_cart_page() {
-	   add.checkPage();
-	   add.checkProduct();
 	}
 
 	

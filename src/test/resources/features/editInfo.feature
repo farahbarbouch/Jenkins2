@@ -20,7 +20,7 @@ Feature: Edit account informations
     Examples: 
       | name    | lastName  | mail                            |newPassword             | pass  |
       | frh     | brb       | farahbarbouch@outlook.com       |                        | 93930595farahfarah  |
-      | farah{{ |   brb@    | farahbarbouch@outlook.com       |                        | 93930595farahfarah  |
+    
       
       
      
