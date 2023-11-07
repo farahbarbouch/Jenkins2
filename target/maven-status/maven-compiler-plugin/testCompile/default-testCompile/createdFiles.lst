@@ -1,0 +1,6 @@
+pages\SortPage.class
+pages\AddProductPage.class
+pages\EditInfoPage.class
+run\Runner.class
+stepsDefinition\Steps.class
+pages\LogiinPage.class
